@@ -1,0 +1,9 @@
+env:
+  AIRFLOW_HOME: /usr/local/airflow
+postgres:
+    port: "5433"
+project:
+    name: snowflake-project-fut
+webserver:
+    port: "8081"
+

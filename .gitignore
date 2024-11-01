@@ -1,0 +1,10 @@
+.DS_Store
+airflow_settings.yaml
+__pycache__/
+astro
+.venv
+airflow/logs
+airflow-webserver.pid
+webserver_config.py
+airflow/airflow.cfg
+airflow/airflow.db
